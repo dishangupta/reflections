@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	It becomes a git repository. We need to do it to track different versions (snapshots) of the repository over time.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area comes between the working directory and the repository, it contains the things that would committed next to the 
+	repository.
